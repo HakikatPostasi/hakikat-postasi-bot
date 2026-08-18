@@ -1,0 +1,4 @@
+feedparser
+requests
+pillow
+python-telegram-bot
